@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is chapter 1 
+=======
+this is chapter 1 is alien
+>>>>>>> alienplot
